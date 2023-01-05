@@ -1,7 +1,12 @@
-**PROYECTO INDIVIDUAL Nº3**
+# <h1 align="center">**PROYECTO INDIVIDUAL Nº3**
 
 **TELECOMUNICACIONES**
 
+<p align="center">
+<img src="https://www.mapfreglobalrisks.com/media/Imagen-Portada-adaptada-1-2.jpg"   
+>
+</p>
+  
 **Data Analyst**
 
 **Contexto Sector Telecomunicaciones**

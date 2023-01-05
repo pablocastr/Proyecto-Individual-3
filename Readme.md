@@ -1,15 +1,15 @@
-PROYECTO INDIVIDUAL Nº3
+**PROYECTO INDIVIDUAL Nº3**
 
-TELECOMUNICACIONES
+**TELECOMUNICACIONES**
 
-Data Analyst
+**Data Analyst**
 
-Contexto Sector Telecomunicaciones
+**Contexto Sector Telecomunicaciones**
 
 En 2020 se registró un menor crecimiento debido a la desaceleración económica mundial y a la mayor dependencia de las empresas locales de los planes de prepago, que los clientes suelen ser más propensos a recortar. En 2021 se acelerará el crecimiento del sector, gracias a la mejora del entorno macroeconómico, impulsada por la vacunación masiva.
 La infraestructura de telecomunicaciones es clave para los modelos de negocio de los operadores, así como la necesidad de ampliar el espectro y modernizar las redes para ofrecer disponibilidad, velocidad, confiabilidad y eficiencia.
 
-DESARROLLO
+**DESARROLLO**
 
 En este contexto, una empresa prestadora de servicios de telecomunicaciones solicita  la realización de un análisis completo que permita reconocer el comportamiento de este sector a nivel nacional. 
 
@@ -20,9 +20,9 @@ Con el fin de monitorear la eficacia de los objetivos de la empresa, se pide vis
 3. Estudiar la cantidad de aumento o disminución trimestral de ingresos por servicios de internet fijo.
 4. Verificar el aumento o disminución anual nacional de la velocidad media de bajada en Mbps.
 
-ANALISIS EXPLORATORIO DE LOS DATOS:
+**ANALISIS EXPLORATORIO DE LOS DATOS:**
 
-Objetivo: monitorear en un dashboard 4 KPIs. 
+**Objetivo: monitorear en un dashboard 4 KPIs. **
 
 El primer paso antes de realizar cualquier tipo de tarea relacionada con datos, es ver y analizar los datos que se encuentran dentro del conjunto de datos que se tiene. Obtener una idea sólida de su comportamiento y tendencias permitirá tomar decisiones más informadas para que la solución al final de la tarea relacionada con los datos sea óptima.
 
@@ -42,7 +42,7 @@ El segundo paso es visualizar los mismos para:
 
 El tercer paso consiste en convertir los datasets modificados a archivos csv para trabajarlos en el dashboard de Power BI.
 
-CONCLUSIONES DE LOS KPIS:
+**CONCLUSIONES DE LOS KPIS:**
 
 1. KPI 1: LOS ACCESOS A BANDA ANCHA Y ANGOSTA HAN AUMENTADO DEL 2021 AL 2022 UN 11,29%
 2. KPI 2: LOS INGRESOS TRIMESTRALES POR SERVICIO DE INTERNET HAN AUMENTADO DEL 2020 AL 2021 UN 9%

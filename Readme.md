@@ -45,6 +45,11 @@ El segundo paso es visualizar los mismos para:
 4. Verificar filas nulas.
 5. Plotear histogramas para observar frecuencias de variables y ver sus comportamientos.
 
+<p align="center">
+<img src="Untitled1.png"   
+>
+</p>
+  
 El tercer paso consiste en convertir los datasets modificados a archivos csv para trabajarlos en el dashboard de Power BI.
 
 **CONCLUSIONES DE LOS KPIS:**

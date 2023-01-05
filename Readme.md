@@ -45,6 +45,7 @@ El segundo paso es visualizar los mismos para:
 4. Verificar filas nulas.
 5. Plotear histogramas para observar frecuencias de variables y ver sus comportamientos.
 
+Por ejemplo, este histograma muestra distintos valores en el eje X del 0 a casi 5 y en el eje Y muestra la cantidad de frecuencias para cada valor. Entonces se interpreta que los valores entre 0 y 1 expresan la mayoria de las frecuencias o repeticiones, es decir hay muchos valores bajos y pocos valores altos que se repiten.  
 <p align="center">
 <img src="Untitled1.png"   
 >

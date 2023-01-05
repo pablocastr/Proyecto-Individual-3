@@ -22,7 +22,7 @@ Con el fin de monitorear la eficacia de los objetivos de la empresa, se pide vis
 
 **ANALISIS EXPLORATORIO DE LOS DATOS:**
 
-**Objetivo: monitorear en un dashboard 4 KPIs. **
+**Objetivo: monitorear en un dashboard 4 KPIs.**
 
 El primer paso antes de realizar cualquier tipo de tarea relacionada con datos, es ver y analizar los datos que se encuentran dentro del conjunto de datos que se tiene. Obtener una idea sólida de su comportamiento y tendencias permitirá tomar decisiones más informadas para que la solución al final de la tarea relacionada con los datos sea óptima.
 

@@ -1,6 +1,6 @@
 # <h1 align="center">**PROYECTO INDIVIDUAL Nº3**
 
-<p align="center">**TELECOMUNICACIONES**
+# <p align="center">**TELECOMUNICACIONES**
 
 <p align="center">
 <img src="https://www.mapfreglobalrisks.com/media/Imagen-Portada-adaptada-1-2.jpg"   
